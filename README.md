@@ -1,8 +1,6 @@
 # OOP & System Design Internship — Batch 01
 
 **Student:** Ray Beckham Onyango Otieno  
-**Email:** onyangoraybeckham@gmail.com  
-**Application ID:** DT-2026-XJS59  
 **Program:** Object-Oriented Programming (OOP) & System Design Internship  
 **Language:** Python 3.10+  
 **Status:** Project work in progress
